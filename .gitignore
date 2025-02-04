@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# .NET Core
+*.runtimeconfig.dev.json
+*.deps.json
+
+# ASP.NET Core Web API
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Test.json
+
+# Publish output
+publish/
+dist/
+
+# Node.js dependencies (si usas front-end con Node.js en el proyecto)
+node_modules/
+bower_components/
+
+# Rider (JetBrains IDE)
+.idea/
+
+# MacOS & Linux files
+.DS_Store
+*.swp
+*.swo
